@@ -22,4 +22,7 @@ sql dump file:
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
+nginx is the frontend and as load balancer
+
+![alt text](vm-arch.png)
 
